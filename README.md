@@ -1,5 +1,8 @@
 # Java Problem Solving
 
+**The Docs file link :** [Click Here to see the Codes and Outputs ](https://docs.google.com/document/d/11kvhSUzH5b6zhGIt-Tz9dUosLZkprcIg/edit?usp=sharing&ouid=105207321304680998857&rtpof=true&sd=true).
+
+# Problems & Approch
 1. Here is the 10 students CGPA [3.50, 3.52, 3.43, 3.63, 3.48, 3.32, 3.30, 3.60, 3.86, 3.75]  
    Find out who achieved the 2nd highest score. (without sorting, use linear searching algorithm)  
    **Approach Description**:  
