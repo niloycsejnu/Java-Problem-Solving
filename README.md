@@ -39,11 +39,15 @@
    1234  
    12345  
    **Approach Description**:
-   This program prints a symmetrical numeric pattern, starting with descending sequences followed by ascending sequences. It uses nested for loops, where the outer loop controls the rows and the inner loop manages the numbers printed in each row. The approach ensures a clean and structured output by systematically iterating through the range of numbers.
+   This program prints a symmetrical numeric pattern, starting with descending sequences followed by ascending sequences. It uses nested for loops, where the outer loop controls the rows and 
+   the inner loop manages the numbers printed in each row. The approach ensures a clean and structured output by systematically iterating through the range of numbers.
 
 7. Take input as height of 10 babies in cm. Now find out the 2 lowest height of babies. (Don’t use Arrays.sort() method)
+   
    **Approach Description**:
-   This Java program reads the heights of 10 babies and identifies the two lowest heights from the input. It uses the Scanner class for user input, and implements a simple logic with conditional checks to track the lowest and second-lowest values. The program ensures that the second-lowest height is distinct from the lowest height by comparing each input with both values.
+   This Java program reads the heights of 10 babies and identifies the two lowest heights from the input. It uses the Scanner class for user input, and implements a simple logic with 
+   conditional checks to track the lowest and second-lowest values. The program ensures that the second-lowest height is distinct from the lowest height by comparing each input with both 
+   values.
 
 8. Count number of words, number of characters without spaces, number of vowels and consonant from the given string:  
    **Input**: I am a SQA Engineer  
